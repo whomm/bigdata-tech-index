@@ -57,12 +57,8 @@
             1. http://kafka.apache.org/
             2. 关联生态
                 1. https://www.confluent.io/
-                    1. KSQL - the Streaming SQL Engine for Apache Kafka
-                        1. https://github.com/confluentinc/ksql
-                    2. kafka-rest Confluent REST Proxy for Kafka
-                        1. https://github.com/confluentinc/kafka-rest
-                    3. schema-registry  Confluent Schema registry for Kafka
-                        1. https://github.com/confluentinc/schema-registry
+                    1. KSQL - the Streaming SQL Engine for Apache Kafka  https://github.com/confluentinc/ksql
+                        1. KSQL is an open source streaming SQL engine for Apache Kafka. It provides a simple and completely interactive SQL interface for stream processing on Kafka; no need to write code in a programming language such as Java or Python. KSQL is open-source (Apache 2.0 licensed), distributed, scalable, reliable, and real-time. It supports a wide range of powerful stream processing operations including aggregations, joins, windowing, sessionization, and much more.
         2. ActiveMQ
         3. RabbitMQ
     2. 日志收集
@@ -137,13 +133,14 @@
         1. The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
         2. http://hive.apache.org/
     9. impala
-8. 一些解决方案
-    1. Moonbox是一个DCaaS（Data Computation as a Service）平台解决方案。Moonbox面向数据仓库工程师/数据分析师/数据科学家等，致力于提供数据虚拟化解决方案。既可作为数据应用底层数据查询计算统一入口，也可作为逻辑数据仓库与现有数据仓库互补。用户只需通过统一SQL服务调用和Moonbox交互，即可透明屏蔽异构数据系统异构交互方式，轻松实现跨异构数据系统Adhoc混算。
-        1. https://github.com/edp963/moonbox
-    2. Wormhole 是一个一站式流式处理云平台解决方案（SPaaS - Stream Processing as a Service）。
-        1. Wormhole 面向大数据流式处理项目的开发管理运维人员，致力于提供统一抽象的概念体系，直观可视化的操作界面，简单流畅的配置管理流程，基于 SQL 即可完成的业务逻辑开发方式，并且屏蔽了流式处理的底层技术细节，极大的降低了数据项目管理运维门槛，使得大数据流式处理项目的开发管理运维变得更加轻量敏捷可控可靠。
-        2. https://github.com/edp963/wormhole
-        3.
+8. 流式计算的一些解决方案
+    1. 宜信技术研发中心Wormhole
+        1. Wormhole 是一个一站式流式处理云平台解决方案（SPaaS - Stream Processing as a Service）。 面向大数据流式处理项目的开发管理运维人员，致力于提供统一抽象的概念体系，直观可视化的操作界面，简单流畅的配置管理流程，基于 SQL 即可完成的业务逻辑开发方式，并且屏蔽了流式处理的底层技术细节，极大的降低了数据项目管理运维门槛，使得大数据流式处理项目的开发管理运维变得更加轻量敏捷可控可靠。
+            1. https://github.com/edp963/wormhole
+        2. Moonbox是一个DCaaS（Data Computation as a Service）平台解决方案。Moonbox面向数据仓库工程师/数据分析师/数据科学家等，致力于提供数据虚拟化解决方案。既可作为数据应用底层数据查询计算统一入口，也可作为逻辑数据仓库与现有数据仓库互补。用户只需通过统一SQL服务调用和Moonbox交互，即可透明屏蔽异构数据系统异构交互方式，轻松实现跨异构数据系统Adhoc混算。
+            1. https://github.com/edp963/moonbox
+    2. https://www.confluent.io/
+        1. KSQL
 9. 大数据存储
     1. OLAP（On-Line Analytical Processing）
         1. PALO

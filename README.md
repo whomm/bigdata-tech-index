@@ -152,26 +152,28 @@
         2. https://cloud.baidu.com/doc/PALO/System.html#.E7.B3.BB.E7.BB.9F.E6.9E.B6.E6.9E.84
         3. tidb 国产开源分布式newsql关系型数据库 （完美兼容mysql）
             1. https://pingcap.com/index.html
-        4. kudu   开源分布式 nosql olap数据库
+        4. QingCloud RadonDB 是基于 MySQL 研发的新一代分布式关系型数据库，可无限水平扩展，支持分布式事务，具备金融级数据强一致性，满足企业级核心数据库对大容量、高并发、高可靠及高可用的极致要求。
+            1. https://github.com/radondb/radon
+        5. kudu   开源分布式 nosql olap数据库
             1.  a new addition to the open source Apache Hadoop ecosystem, Apache Kudu completes Hadoop's storage layer to enable fast analytics on fast data.
             2. http://kudu.apache.org/
             3. 产考文档：
                 1. 小米kudu实时分析系统&kudu、hbase、parquet对比  https://baijia.baidu.com/s?old_id=581124
-        5. kylin
+        6. kylin
             1. Apache Kylin™是一个开源的分布式分析引擎，提供Hadoop/Spark之上的SQL查询接口及多维分析（OLAP）能力以支持超大规模数据，最初由eBay Inc. 开发并贡献至开源社区。它能在亚秒内查询巨大的Hive表。
             2. http://kylin.apache.org/
-        6. greenplum
+        7. greenplum
             1. Greenplum DB 号称是世界上第一个开源的大规模并行数据仓库，最初是基于 PostgreSQL，现在已经添加了大量数据库方面的创新。Greenplum 提供 PD 级别数据量的强大和快速分析能力，特别是面向大数据方面的分析能力，支持大数据的超高性能分析查询。
             2. https://greenplum.org/
             3. http://www.greenplum.net.cn/
             4. 产考资料
                 1. 《Greenplum资源隔离指南》 https://yq.aliyun.com/articles/57763
                 2. 《三张图读懂Greenplum在企业的正确使用姿势》 https://yq.aliyun.com/articles/57736
-        7. Vertica
+        8. Vertica
             1. https://www.vertica.com/
-        8. Exadata
-        9. Amazon RedShift
-        10. Google BigQuery
+        9. Exadata
+        10. Amazon RedShift
+        11. Google BigQuery
     2. parquet  hadoop生态下的列式存储、数据处理框架
         1. https://parquet.apache.org/
         2. 适用场景：

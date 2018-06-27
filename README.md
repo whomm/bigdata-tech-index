@@ -131,6 +131,7 @@
     13. airflow
         1. Airflow is a platform to programmatically author, schedule and monitor workflows.(airbnb家的基于DAG(有向无环图)的任务管理系统)
         2. http://airflow.incubator.apache.org/
+        3. [译] 解密 Airbnb 的数据流编程神器：Airflow 中的技巧和陷阱 https://segmentfault.com/a/1190000005078547
     14. azkaban
         1. Azkaban was designed primarily with usability in mind. It has been running at LinkedIn for several years, and drives many of their Hadoop and data warehouse processes.
         2. https://azkaban.github.io/
@@ -228,5 +229,7 @@
         1. 数据平台作业调度系统详解－理论篇 https://www.jianshu.com/p/bddffdfea00b
         2. 数据平台作业调度系统详解－实践篇 https://www.jianshu.com/p/428ae367a38b
         3. 大数据平台-元数据管理系统解析 https://www.jianshu.com/p/9fe3ff2bbe99
+    3. https://segmentfault.com/blog/harryprince
+        1. 深入对比数据仓库模式：Kimball vs Inmon https://segmentfault.com/a/1190000006255954
 
 

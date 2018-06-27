@@ -41,16 +41,27 @@
 3. 数据可视化
     1. superset：
         1. https://superset.incubator.apache.org/
-    2. 报表工具  https://git.oschina.net/max256/morpho
-    3. 关联技术
+    2. Metabase:
+        1. https://www.metabase.com/
+        2. Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+        3. https://github.com/metabase/metabase
+    3. redash:
+        1. https://redash.io/
+        2. Connect and query your data sources, build dashboards to visualize data and share them with your company
+    4. cboard
+        1. 开源BI仪表板平台，支持交互式多维报表设计和数据分析
+        2. https://github.com/yzhang921/CBoard
+    5. datav  阿里云的数据可视化产品
+    6. morpho
+        1. 支持完善报表系统
+        2. https://git.oschina.net/max256/morpho
+    7. 关联技术
         1. 前端技术
             1. echarts
                 1. http://echarts.baidu.com/
             2. antv
                 1.  https://antv.alipay.com/zh-cn/index.html
-    4. cboard 开源BI仪表板平台，支持交互式多维报表设计和数据分析
-        1. https://github.com/yzhang921/CBoard
-    5. datav  阿里云的数据可视化产品
+
 4. 数据同步
     1. 数据传输
         1. kafka: a distibuted streaming platform
@@ -117,6 +128,18 @@
     12. JobCtrl
         1. 海量任务作业调度监控平台 - Primeton JobCtrl
         2. http://www.primeton.com/
+    13. airflow
+        1. Airflow is a platform to programmatically author, schedule and monitor workflows.(airbnb家的基于DAG(有向无环图)的任务管理系统)
+        2. http://airflow.incubator.apache.org/
+    14. azkaban
+        1. Azkaban was designed primarily with usability in mind. It has been running at LinkedIn for several years, and drives many of their Hadoop and data warehouse processes.
+        2. https://azkaban.github.io/
+    15. luigi
+        1. helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+        2. http://luigi.readthedocs.io/en/stable/
+    16. Oozie
+        1. Apache Oozie Workflow Scheduler for Hadoop
+        2. http://oozie.apache.org/
 7. 计算引擎&框架
     1. spark
         1. http://spark.apache.org/

@@ -197,5 +197,7 @@
         4. https://github.com/CHINA-JD/presto/
     7. 分布式文件存储
         1. https://github.com/chrislusf/seaweedfs
+10. 干货文章
+    1. 如何设计实时数据平台（上篇） https://mp.weixin.qq.com/s/m8kqanZ6fUUcg0U94E5ptQ
 
 

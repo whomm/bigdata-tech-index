@@ -1,4 +1,4 @@
-# Big Data Technology Index(大数据技术索引)
+# ![image](https://github.com/whomm/bigdata-tech-index/raw/master/logo.png)Big Data Technology Index/大数据技术索引
 
 
 1. 大数据生态
@@ -229,7 +229,7 @@
         1. 数据平台作业调度系统详解－理论篇 https://www.jianshu.com/p/bddffdfea00b
         2. 数据平台作业调度系统详解－实践篇 https://www.jianshu.com/p/428ae367a38b
         3. 大数据平台-元数据管理系统解析 https://www.jianshu.com/p/9fe3ff2bbe99
-    3. https://segmentfault.com/blog/harryprince
+    3. FinanceR https://segmentfault.com/blog/harryprince
         1. 深入对比数据仓库模式：Kimball vs Inmon https://segmentfault.com/a/1190000006255954
 
 

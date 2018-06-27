@@ -198,6 +198,12 @@
     7. 分布式文件存储
         1. https://github.com/chrislusf/seaweedfs
 10. 干货文章
-    1. 如何设计实时数据平台（上篇） https://mp.weixin.qq.com/s/m8kqanZ6fUUcg0U94E5ptQ
+    1. 敏捷大数据（公众号：敏捷大数据）
+        1. 敏捷大数据，了解一下？ https://mp.weixin.qq.com/s/N7B1P5pWxTte9Y_HjV8ksw
+        2. 如何设计实时数据平台（上篇） https://mp.weixin.qq.com/s/m8kqanZ6fUUcg0U94E5ptQ
+    2. 大数据务虚杂谈(公众号：大数据务虚杂谈) https://www.jianshu.com/nb/13273839
+        1. 数据平台作业调度系统详解－理论篇 https://www.jianshu.com/p/bddffdfea00b
+        2. 数据平台作业调度系统详解－实践篇 https://www.jianshu.com/p/428ae367a38b
+        3. 大数据平台-元数据管理系统解析 https://www.jianshu.com/p/9fe3ff2bbe99
 
 

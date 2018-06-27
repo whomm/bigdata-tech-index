@@ -1,5 +1,4 @@
-![image](https://github.com/whomm/bigdata-tech-index/raw/master/logo.png)
-# Big Data Technology Index/大数据相关技术整理
+# Big Data Technology Index/大数据技术索引![image](https://github.com/whomm/bigdata-tech-index/raw/master/logo.png)
 
 1. 大数据生态
     1. bigdata-ecosystem

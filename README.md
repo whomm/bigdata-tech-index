@@ -71,6 +71,7 @@
                         1. KSQL is an open source streaming SQL engine for Apache Kafka. It provides a simple and completely interactive SQL interface for stream processing on Kafka; no need to write code in a programming language such as Java or Python. KSQL is open-source (Apache 2.0 licensed), distributed, scalable, reliable, and real-time. It supports a wide range of powerful stream processing operations including aggregations, joins, windowing, sessionization, and much more.
         2. ActiveMQ
         3. RabbitMQ
+        4. beanstalkd
     2. 日志收集
         1. flume
             1. Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.
@@ -230,5 +231,6 @@
         3. 大数据平台-元数据管理系统解析 https://www.jianshu.com/p/9fe3ff2bbe99
     3. FinanceR https://segmentfault.com/blog/harryprince
         1. 深入对比数据仓库模式：Kimball vs Inmon https://segmentfault.com/a/1190000006255954
-
-
+11. https://www.tigergraph.com/
+    1. The World’s Fastest and Most Scalable Graph Platform
+    2. Through its Native Parallel Graph™ technology, TigerGraph represents what’s next in the graph database evolution: a complete, distributed, parallel graph computing platform supporting web-scale data analytics in real-time. Combining the best ideas (MapReduce, Massively Parallel Processing, and fast data compression/decompression) with fresh development, TigerGraph delivers what you’ve been waiting for: the speed, scalability, and deep exploration/querying capability to extract more business value from your data.

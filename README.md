@@ -231,6 +231,12 @@
         3. 大数据平台-元数据管理系统解析 https://www.jianshu.com/p/9fe3ff2bbe99
     3. FinanceR https://segmentfault.com/blog/harryprince
         1. 深入对比数据仓库模式：Kimball vs Inmon https://segmentfault.com/a/1190000006255954
-11. https://www.tigergraph.com/
-    1. The World’s Fastest and Most Scalable Graph Platform
-    2. Through its Native Parallel Graph™ technology, TigerGraph represents what’s next in the graph database evolution: a complete, distributed, parallel graph computing platform supporting web-scale data analytics in real-time. Combining the best ideas (MapReduce, Massively Parallel Processing, and fast data compression/decompression) with fresh development, TigerGraph delivers what you’ve been waiting for: the speed, scalability, and deep exploration/querying capability to extract more business value from your data.
+11. Graph Platform
+    1. https://www.tigergraph.com/
+        1. The World’s Fastest and Most Scalable Graph Platform
+        2. Through its Native Parallel Graph™ technology, TigerGraph represents what’s next in the graph database evolution: a complete, distributed, parallel graph computing platform supporting web-scale data analytics in real-time. Combining the best ideas (MapReduce, Massively Parallel Processing, and fast data compression/decompression) with fresh development, TigerGraph delivers what you’ve been waiting for: the speed, scalability, and deep exploration/querying capability to extract more business value from your data.
+    2. https://neo4j.com/
+12. Time Series Database
+    1. openTSDB 基于hbase的时间序列数据库
+        1. The Scalable Time Series Database. Store and serve massive amounts of time series data without losing granularity.
+        2. http://opentsdb.net/

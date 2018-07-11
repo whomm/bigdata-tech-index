@@ -165,7 +165,9 @@
             1. https://github.com/edp963/moonbox
     2. https://www.confluent.io/
         1. KSQL
-            1. 安装测试：https://github.com/confluentinc/ksql/tree/0.1.x/docs/quickstart#setup
+            1. https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
+            2. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+            3. 安装测试：https://github.com/confluentinc/ksql/tree/0.1.x/docs/quickstart#setup
 9. 大数据存储
     1. OLAP（On-Line Analytical Processing）
         1. PALO

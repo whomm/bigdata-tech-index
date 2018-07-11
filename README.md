@@ -166,9 +166,13 @@
             1. https://github.com/edp963/moonbox
     2. https://www.confluent.io/
         1. KSQL
-            1. https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
-            2. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
-            3. quickstart：https://github.com/confluentinc/ksql/tree/0.1.x/docs/quickstart#setup
+            1. quickstart：
+                1. download & start:
+                    1. https://www.confluent.io/download/
+                    2. https://docs.confluent.io/current/quickstart/cos-quickstart.html
+                2. other: https://github.com/confluentinc/ksql/tree/0.1.x/docs/quickstart#setup
+            2. https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
+            3. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
             4. KSQL in Action: Enriching CSV Events with Data from RDBMS into AWS https://www.confluent.io/blog/ksql-in-action-enriching-csv-events-with-data-from-rdbms-into-AWS/
 9. 大数据存储
     1. OLAP（On-Line Analytical Processing）

@@ -78,7 +78,7 @@
             2. http://flume.apache.org/
         2. logstash
             1. https://www.ibm.com/developerworks/cn/opensource/os-cn-elk-filebeat/index.html?ca=drs-&utm_source=tuicool&utm_medium=referral
-    3. 分布式数据库同步
+    3. 分布式数据库同步/streaming
         1. https://github.com/alibaba/otter
             1. canal mysql数据同步 https://github.com/alibaba/canal
         2. DataX
@@ -96,7 +96,8 @@
             2. http://sqoop.apache.org/
         6. kafka-connect-jdbc is a Kafka Connector for loading data to and from any JDBC-compatible database.
             1. https://github.com/confluentinc/kafka-connect-jdbc
-
+        7. Debezium（Stream changes from your databases） http://debezium.io/
+            1. Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
     4. 自动化数据同步流
         1. http://nifi.apache.org/
     5. 数据同步工具
@@ -168,6 +169,7 @@
             1. https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
             2. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
             3. 安装测试：https://github.com/confluentinc/ksql/tree/0.1.x/docs/quickstart#setup
+            4. 数据库到实时展现：KSQL in Action: Enriching CSV Events with Data from RDBMS into AWS https://www.confluent.io/blog/ksql-in-action-enriching-csv-events-with-data-from-rdbms-into-AWS/
 9. 大数据存储
     1. OLAP（On-Line Analytical Processing）
         1. PALO

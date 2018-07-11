@@ -168,8 +168,8 @@
         1. KSQL
             1. https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
             2. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
-            3. 安装测试：https://github.com/confluentinc/ksql/tree/0.1.x/docs/quickstart#setup
-            4. 数据库到实时展现：KSQL in Action: Enriching CSV Events with Data from RDBMS into AWS https://www.confluent.io/blog/ksql-in-action-enriching-csv-events-with-data-from-rdbms-into-AWS/
+            3. quickstart：https://github.com/confluentinc/ksql/tree/0.1.x/docs/quickstart#setup
+            4. KSQL in Action: Enriching CSV Events with Data from RDBMS into AWS https://www.confluent.io/blog/ksql-in-action-enriching-csv-events-with-data-from-rdbms-into-AWS/
 9. 大数据存储
     1. OLAP（On-Line Analytical Processing）
         1. PALO
@@ -250,3 +250,10 @@
     1. openTSDB 基于hbase的时间序列数据库
         1. The Scalable Time Series Database. Store and serve massive amounts of time series data without losing granularity.
         2. http://opentsdb.net/
+13. mysql to kafka
+    1. 技术框架
+        1. dbus
+        2. Debezium
+    2. 技术文档
+        1. https://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html
+

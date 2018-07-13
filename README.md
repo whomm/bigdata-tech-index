@@ -78,6 +78,8 @@
             2. http://flume.apache.org/
         2. logstash
             1. https://www.ibm.com/developerworks/cn/opensource/os-cn-elk-filebeat/index.html?ca=drs-&utm_source=tuicool&utm_medium=referral
+        3. logkit（qiniu云）
+            https://github.com/qiniu/logkit
     3. 分布式数据库同步/streaming
         1. https://github.com/alibaba/otter
             1. canal mysql数据同步 https://github.com/alibaba/canal

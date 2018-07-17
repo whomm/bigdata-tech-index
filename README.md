@@ -234,6 +234,22 @@
         1. https://github.com/chrislusf/seaweedfs
     8. alluxio
         1. http://www.alluxio.org/
+    9. Amazon S3
+    10. OpenStack Swift
+        1. Swift is a highly available, distributed, eventually consistent object/blob store. Organizations can use Swift to store lots of data efficiently, safely, and cheaply.
+        2. https://docs.openstack.org/swift/latest/
+    11. GlusterFS
+        1. Gluster is a scalable, distributed file system that aggregates disk storage resources from multiple servers into a single global namespace.
+        2. https://docs.gluster.org/en/latest/
+    12. HDFS
+        1. https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
+    13. MaprFS
+        1. MapR-FS provides high performance enterprise-grade storage for big data
+        2. https://mapr.com/products/mapr-fs/
+    14. Ceph  独一无二地在一个统一的系统中同时提供了对象、块、和文件存储功能。
+        1. http://docs.ceph.org.cn/
+    15. OSS
+        1. https://cn.aliyun.com/product/oss
 10. 干货文章
     1. 敏捷大数据（公众号：敏捷大数据）
         1. 敏捷大数据，了解一下？ https://mp.weixin.qq.com/s/N7B1P5pWxTte9Y_HjV8ksw

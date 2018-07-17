@@ -232,6 +232,8 @@
         4. https://github.com/CHINA-JD/presto/
     7. 分布式文件存储
         1. https://github.com/chrislusf/seaweedfs
+    8. alluxio
+        1. http://www.alluxio.org/
 10. 干货文章
     1. 敏捷大数据（公众号：敏捷大数据）
         1. 敏捷大数据，了解一下？ https://mp.weixin.qq.com/s/N7B1P5pWxTte9Y_HjV8ksw

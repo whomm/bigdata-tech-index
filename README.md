@@ -7,6 +7,7 @@
     2. Great Power, Great Responsibility: The 2018 Big Data & AI Landscape
         1. http://mattturck.com/bigdata2018/
         2. http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
+        3. http://mattturck.com/bigdata2017/
 2. 国内外相关
     1. 国内数据分析计算平台产品
         1. 神策
@@ -263,6 +264,7 @@
         3. 大数据平台-元数据管理系统解析 https://www.jianshu.com/p/9fe3ff2bbe99
     3. FinanceR https://segmentfault.com/blog/harryprince
         1. 深入对比数据仓库模式：Kimball vs Inmon https://segmentfault.com/a/1190000006255954
+    4. Matt Turck: http://mattturck.com/bigdata2018/
 11. Graph Platform
     1. https://www.tigergraph.com/
         1. The World’s Fastest and Most Scalable Graph Platform

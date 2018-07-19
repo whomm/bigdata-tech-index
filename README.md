@@ -4,6 +4,9 @@
     1. bigdata-ecosystem
         1. https://github.com/zenkay/bigdata-ecosystem
         2. http://bigdata.andreamostosi.name/
+    2. Great Power, Great Responsibility: The 2018 Big Data & AI Landscape
+        1. http://mattturck.com/bigdata2018/
+        2. http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 2. 国内外相关
     1. 国内数据分析计算平台产品
         1. 神策

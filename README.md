@@ -164,6 +164,9 @@
         1. The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
         2. http://hive.apache.org/
     9. impala
+    10. verdictdb
+        1. 200x Fewer Resources No Changes to the Application Compatible with All SQL Engines
+        2. http://verdictdb.org/
 8. 流式计算的一些解决方案
     1. 宜信技术研发中心Wormhole
         1. Wormhole 是一个一站式流式处理云平台解决方案（SPaaS - Stream Processing as a Service）。 面向大数据流式处理项目的开发管理运维人员，致力于提供统一抽象的概念体系，直观可视化的操作界面，简单流畅的配置管理流程，基于 SQL 即可完成的业务逻辑开发方式，并且屏蔽了流式处理的底层技术细节，极大的降低了数据项目管理运维门槛，使得大数据流式处理项目的开发管理运维变得更加轻量敏捷可控可靠。

@@ -291,4 +291,6 @@
         2. Debezium
     2. 技术文档
         1. https://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html
+14. 数据建模工具
+    1. https://erwin.com/
 

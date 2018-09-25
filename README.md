@@ -76,6 +76,8 @@
         2. ActiveMQ
         3. RabbitMQ
         4. beanstalkd
+        5. LogDevice (facebook)
+            1. https://github.com/facebookincubator/LogDevice
     2. 日志收集
         1. flume
             1. Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.

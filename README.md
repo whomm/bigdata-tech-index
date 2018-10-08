@@ -218,6 +218,8 @@
         9. Exadata
         10. Amazon RedShift
         11. Google BigQuery
+        12. druid: Apache Druid (incubating) is a high performance analytics data store for event-driven data.
+            1. http://druid.io/
     2. parquet  hadoop生态下的列式存储、数据处理框架
         1. https://parquet.apache.org/
         2. 适用场景：

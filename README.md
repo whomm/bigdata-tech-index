@@ -162,16 +162,23 @@
     7. flink
         1. Apache Flink® is an open-source stream processing framework for distributed, high-performing, always-available, and accurate data streaming applications.
         2. http://flink.apache.org/
-    8. hive
-        1. The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
-        2. http://hive.apache.org/
-    9. impala
-    10. verdictdb
-        1. 200x Fewer Resources No Changes to the Application Compatible with All SQL Engines
-        2. http://verdictdb.org/
-    11 Apache Drill
-        1. Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
-        2. http://drill.apache.org/
+    8. sql计算引擎
+        1. hive
+            1. The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
+            2. http://hive.apache.org/
+        2. impala
+        3. Apache Drill
+            1. Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
+            2. http://drill.apache.org/
+        4. prestodb 开源的分布式SQL交互式解析查询引擎
+            1. Distributed SQL Query Engine for Big Data
+            2. https://prestodb.io/
+            3. http://prestodb-china.com/
+            4. https://github.com/CHINA-JD/presto/
+        5. verdictdb
+            1. 200x Fewer Resources No Changes to the Application Compatible with All SQL Engines
+            2. http://verdictdb.org/
+
 8. 流式计算的一些解决方案
     1. 宜信技术研发中心Wormhole
         1. Wormhole 是一个一站式流式处理云平台解决方案（SPaaS - Stream Processing as a Service）。 面向大数据流式处理项目的开发管理运维人员，致力于提供统一抽象的概念体系，直观可视化的操作界面，简单流畅的配置管理流程，基于 SQL 即可完成的业务逻辑开发方式，并且屏蔽了流式处理的底层技术细节，极大的降低了数据项目管理运维门槛，使得大数据流式处理项目的开发管理运维变得更加轻量敏捷可控可靠。
@@ -220,6 +227,8 @@
         11. Google BigQuery
         12. druid: Apache Druid (incubating) is a high performance analytics data store for event-driven data.
             1. http://druid.io/
+        13. pinot(A realtime distributed OLAP datastore https://github.com/linkedin/pinot/wiki)
+            1. Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency. It can ingest data from offline data sources (such as Hadoop and flat files) as well as online sources (such as Kafka). Pinot is designed to scale horizontally.
     2. parquet  hadoop生态下的列式存储、数据处理框架
         1. https://parquet.apache.org/
         2. 适用场景：
@@ -239,31 +248,26 @@
                 1. The Scalable Time Series Database. Store and serve massive amounts of time series data without losing granularity.
                 2. http://opentsdb.net/
             2. kylin
-    5. prestodb 开源的分布式SQL交互式解析查询引擎
-        1. Distributed SQL Query Engine for Big Data
-        2. https://prestodb.io/
-        3. http://prestodb-china.com/
-        4. https://github.com/CHINA-JD/presto/
-    7. 分布式文件存储
+    5. 分布式文件存储
         1. https://github.com/chrislusf/seaweedfs
-    8. alluxio
+    6. alluxio
         1. http://www.alluxio.org/
-    9. Amazon S3
-    10. OpenStack Swift
+    7. OpenStack Swift
         1. Swift is a highly available, distributed, eventually consistent object/blob store. Organizations can use Swift to store lots of data efficiently, safely, and cheaply.
         2. https://docs.openstack.org/swift/latest/
-    11. GlusterFS
+    8. GlusterFS
         1. Gluster is a scalable, distributed file system that aggregates disk storage resources from multiple servers into a single global namespace.
         2. https://docs.gluster.org/en/latest/
-    12. HDFS
+    9. HDFS
         1. https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
-    13. MaprFS
+    10. MaprFS
         1. MapR-FS provides high performance enterprise-grade storage for big data
         2. https://mapr.com/products/mapr-fs/
-    14. Ceph  独一无二地在一个统一的系统中同时提供了对象、块、和文件存储功能。
+    11. Ceph  独一无二地在一个统一的系统中同时提供了对象、块、和文件存储功能。
         1. http://docs.ceph.org.cn/
-    15. OSS
+    12. OSS
         1. https://cn.aliyun.com/product/oss
+    13. Amazon S3
 10. 干货文章
     1. 敏捷大数据（公众号：敏捷大数据）
         1. 敏捷大数据，了解一下？ https://mp.weixin.qq.com/s/N7B1P5pWxTte9Y_HjV8ksw
@@ -289,6 +293,12 @@
     1. openTSDB 基于hbase的时间序列数据库
         1. The Scalable Time Series Database. Store and serve massive amounts of time series data without losing granularity.
         2. http://opentsdb.net/
+    2. druid: Apache Druid (incubating) is a high performance analytics data store for event-driven data.
+        1. http://druid.io/
+    3. InfluxDB
+        1. InfluxDB是一个由InfluxData开发的开源时序型数据库。它由Go写成，着力于高性能地查询与存储时序型数据。InfluxDB被广泛应用于存储系统的监控数据，IoT行业的实时数据等场景(维基百科)。
+        2. https://www.influxdata.com/
+
 13. mysql to kafka
     1. 技术框架
         1. dbus

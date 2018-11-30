@@ -294,7 +294,7 @@
         1. The World’s Fastest and Most Scalable Graph Platform
         2. Through its Native Parallel Graph™ technology, TigerGraph represents what’s next in the graph database evolution: a complete, distributed, parallel graph computing platform supporting web-scale data analytics in real-time. Combining the best ideas (MapReduce, Massively Parallel Processing, and fast data compression/decompression) with fresh development, TigerGraph delivers what you’ve been waiting for: the speed, scalability, and deep exploration/querying capability to extract more business value from your data.
         3. 相关资料
-            1. https://zhuanlan.zhihu.com/graphdb
+            1. 图数据库 南慕伦・知乎专栏 https://zhuanlan.zhihu.com/graphdb
             2. 图数据库实战入门 —— 一个简单的电影推荐系统实现 https://zhuanlan.zhihu.com/p/38195608
     2. https://neo4j.com/
         1. 相关资料

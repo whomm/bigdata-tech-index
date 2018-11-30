@@ -271,7 +271,17 @@
 10. 干货文章
     1. 敏捷大数据（公众号：敏捷大数据）
         1. 敏捷大数据，了解一下？ https://mp.weixin.qq.com/s/N7B1P5pWxTte9Y_HjV8ksw
-        2. 如何设计实时数据平台（上篇） https://mp.weixin.qq.com/s/m8kqanZ6fUUcg0U94E5ptQ
+        2. 实时数据平台
+            1. 如何设计实时数据平台（上篇） https://mp.weixin.qq.com/s/m8kqanZ6fUUcg0U94E5ptQ
+            2. 如何设计实时数据平台（下篇） https://mp.weixin.qq.com/s/0zm_eVlTDmuReTJ1UTk0zg
+        3. 逻辑数据仓库
+            1. 如何设计逻辑数据仓库（上篇） https://mp.weixin.qq.com/s/a9sAl6PiZpOEO-u1AMkDEQ
+            2. 如何设计逻辑数据仓库（中篇） https://mp.weixin.qq.com/s/4iuxTW8E8Iw-7b3yfgC88w
+            3. 如何设计逻辑数据仓库（下篇） https://mp.weixin.qq.com/s/Xd6xgTqzsDtP-LFA5XtUNg
+        4. 数据虚拟化
+            1. 数据虚拟化环境设计步骤分解（上篇） https://mp.weixin.qq.com/s/HzuWmV1wH3uFHA3V--S-Ug
+            2. 数据虚拟化环境设计步骤分解（中篇） https://mp.weixin.qq.com/s/GJFLL9VU2NoqLPdnVVETWw
+            3. 数据虚拟化环境设计步骤分解（下篇） https://mp.weixin.qq.com/s/PDjV8P-YzNZYFOjnXplvEw
     2. 大数据务虚杂谈(公众号：大数据务虚杂谈) https://www.jianshu.com/nb/13273839
         1. 数据平台作业调度系统详解－理论篇 https://www.jianshu.com/p/bddffdfea00b
         2. 数据平台作业调度系统详解－实践篇 https://www.jianshu.com/p/428ae367a38b
@@ -293,6 +303,8 @@
     1. openTSDB 基于hbase的时间序列数据库
         1. The Scalable Time Series Database. Store and serve massive amounts of time series data without losing granularity.
         2. http://opentsdb.net/
+        3. 相关文章：
+            1. OpenTSDB 底层 HBase 的 Rowkey 是如何设计的 https://www.iteblog.com/archives/2450.html
     2. druid: Apache Druid (incubating) is a high performance analytics data store for event-driven data.
         1. http://druid.io/
     3. InfluxDB
@@ -304,7 +316,9 @@
         1. dbus
         2. Debezium
     2. 技术文档
-        1. https://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html
+        1. Streaming MySQL tables in real-time to Kafka https://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html
 14. 数据建模工具
     1. https://erwin.com/
+
+
 

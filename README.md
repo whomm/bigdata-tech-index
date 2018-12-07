@@ -268,6 +268,15 @@
     12. OSS
         1. https://cn.aliyun.com/product/oss
     13. Amazon S3
+    14. CarbonData
+        1. Apache CarbonData is an indexed columnar data format for fast analytics on big data platform, e.g. Apache Hadoop, Apache Spark, etc.
+        2. 特点：
+            1. 一种Hadoop Native的列存文件格式 索引的文件格式
+            2. 一种带索引的文件格式+ Spark/Presto 计算引擎深度集成和优化的解决方案
+            3. 拓展了Spark SQL 的语法，提供了数据管理的功能，拥有丰富的索引，及针对计算引擎对查询和计算进行了深度优化什么是CarbonData
+        3. 相关资料：
+            1. CarbonData的实践与调优Action & Tuning in CarbonData: https://pan.baidu.com/s/1MibdwHK16Usk0FXsgBx7iQ
+            2. 基于CarbonData构建万亿级数据仓库 https://pan.baidu.com/s/1mTkuM_tJC-kO8hwJLjVKog
 10. 干货文章
     1. 敏捷大数据（公众号：敏捷大数据）
         1. 敏捷大数据，了解一下？ https://mp.weixin.qq.com/s/N7B1P5pWxTte9Y_HjV8ksw

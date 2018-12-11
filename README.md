@@ -297,7 +297,7 @@
         3. 大数据平台-元数据管理系统解析 https://www.jianshu.com/p/9fe3ff2bbe99
     3. FinanceR https://segmentfault.com/blog/harryprince
         1. 深入对比数据仓库模式：Kimball vs Inmon https://segmentfault.com/a/1190000006255954
-    4. Matt Turck: http://mattturck.com/bigdata2018/
+    4. Matt Turck《Great Power, Great Responsibility: The 2018 Big Data & AI Landscape》: http://mattturck.com/bigdata2018/
     5. 2018京东大数据白皮书 https://pan.baidu.com/s/17V1wGTpfj7vsnoThlkw5Mw
 11. Graph Platform
     1. https://www.tigergraph.com/

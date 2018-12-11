@@ -252,6 +252,8 @@
         1. https://github.com/chrislusf/seaweedfs
     6. alluxio
         1. http://www.alluxio.org/
+        2. Alluxio（之前名为Tachyon）是世界上第一个以内存为中心的虚拟的分布式存储系统。它统一了数据访问的方式，为上层计算框架和底层存储系统构建了桥梁。 应用只需要连接Alluxio即可访问存储在底层任意存储系统中的数据。此外，Alluxio的以内存为中心的架构使得数据的访问速度能比现有方案快几个数量级。
+        3. https://www.alluxio.org/docs/1.6/cn/
     7. OpenStack Swift
         1. Swift is a highly available, distributed, eventually consistent object/blob store. Organizations can use Swift to store lots of data efficiently, safely, and cheaply.
         2. https://docs.openstack.org/swift/latest/

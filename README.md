@@ -121,8 +121,11 @@
     2. Talend
         1. https://www.talend.com/
         2. 开源产品国内也提供技术支持
-    3. 相关文档
-        1. 几种 ETL 工具的比较(Kettle,Talend,Informatica 等) https://www.cnblogs.com/journeyIT/p/8267223.html
+    3. informatica
+        1. 商业产品+技术服务收费
+    4. 相关文档
+        1. informatica  Talend 有竞争关系
+        2. 几种 ETL 工具的比较(Kettle,Talend,Informatica 等) https://www.cnblogs.com/journeyIT/p/8267223.html
 
 6. 离线任务调度
     1. hadoop任务调度

@@ -78,6 +78,9 @@
         4. beanstalkd
         5. LogDevice (facebook)
             1. https://github.com/facebookincubator/LogDevice
+        6. Confluo
+            1. https://ucbrise.github.io/confluo/
+            2. 伯克利开源 Confluo：吞吐量比 Kafka 高 4 到 10 倍！ https://mp.weixin.qq.com/s/DfDVwxEGXLpyhdXHHCSGTg
     2. 日志收集
         1. flume
             1. Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.
@@ -112,8 +115,15 @@
         1. mysql replication protocal go 实现： https://github.com/siddontang/go-mysql
         2. mysql replication protocal python 实现 https://github.com/noplay/python-mysql-replication
 5. ETL
+
     1. KETTLE
         1. https://community.hds.com/docs/DOC-1009855
+    2. Talend
+        1. https://www.talend.com/
+        2. 开源产品国内也提供技术支持
+    3. 相关文档
+        1. 几种 ETL 工具的比较(Kettle,Talend,Informatica 等) https://www.cnblogs.com/journeyIT/p/8267223.html
+
 6. 离线任务调度
     1. hadoop任务调度
         1. http://oozie.apache.org/

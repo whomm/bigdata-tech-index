@@ -208,6 +208,17 @@
             2. https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
             3. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
             4. KSQL in Action: Enriching CSV Events with Data from RDBMS into AWS https://www.confluent.io/blog/ksql-in-action-enriching-csv-events-with-data-from-rdbms-into-AWS/
+    3. 流计算引擎：
+        1. Flink
+        2. Spark
+        3. Kafka
+        4. Pulsar
+        5. Storm
+        6. JStorm
+        7. nifi
+        8. samza
+    4. 相关文档：
+        1. 解读2018：13家开源框架谁能统一流计算？ https://mp.weixin.qq.com/s/DKGEiW-WozhKXr7b3zz4Ow
 9. 大数据存储
     1. OLAP（On-Line Analytical Processing）
         1. PALO

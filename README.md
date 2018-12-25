@@ -355,6 +355,14 @@
         1. Streaming MySQL tables in real-time to Kafka https://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html
 14. 数据建模工具
     1. https://erwin.com/
+15. 集群管理解决方案
+    1. Cloudera & Hortonworks
+        1. 两家公司已经合并
+    2. ambari
+        1. The Apache Ambari project is aimed at making Hadoop management simpler by developing software for provisioning, managing, and monitoring Apache Hadoop clusters. Ambari provides an intuitive, easy-to-use Hadoop management web UI backed by its RESTful APIs.
+        2. https://ambari.apache.org/
+        3. Ambari——大数据平台的搭建利器 https://www.ibm.com/developerworks/cn/opensource/os-cn-bigdata-ambari/index.html
+        4. Ambari及其HDP集群安装及其配置教程 https://zhuanlan.zhihu.com/p/37322462
 15. 其他
 
 

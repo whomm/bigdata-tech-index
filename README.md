@@ -365,7 +365,8 @@
         4. Ambari及其HDP集群安装及其配置教程 https://zhuanlan.zhihu.com/p/37322462
 16. 数据中台
     1. mlsql
-        1. https://www.jianshu.com/p/c90acfbd4638?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends&from=groupmessage&isappinstalled=0
+        1. Unify Big Data and Machine Learning
+        2. https://www.jianshu.com/p/c90acfbd4638?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends&from=groupmessage&isappinstalled=0
 15. 其他
 
 

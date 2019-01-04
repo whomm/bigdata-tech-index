@@ -166,7 +166,7 @@
 7. 计算引擎&框架
     1. spark
         1. http://spark.apache.org/
-    2. taz
+    2. tez
     3. hadoop-mapreduce
         1. http://hadoop.apache.org/
     4. bigflow

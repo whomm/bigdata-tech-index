@@ -170,7 +170,7 @@
             1. spark at Adobe: https://pan.baidu.com/s/1BGH4G4XxYVlXEsYWsK2t6Q
             2. Uber Hudi Spark: https://pan.baidu.com/s/1ykYbIoVm4HMkS32t6pxkPg
             3. uber/hudi https://github.com/uber/hudi/wiki/ASF-Proposal
-    2. taz
+    2. tez
     3. hadoop-mapreduce
         1. http://hadoop.apache.org/
     4. bigflow

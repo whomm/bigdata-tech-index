@@ -166,6 +166,10 @@
 7. 计算引擎&框架
     1. spark
         1. http://spark.apache.org/
+        2. 相关资料
+            1. spark at Adobe: https://pan.baidu.com/s/1BGH4G4XxYVlXEsYWsK2t6Q
+            2. Uber Hudi Spark: https://pan.baidu.com/s/1ykYbIoVm4HMkS32t6pxkPg
+            3. uber/hudi https://github.com/uber/hudi/wiki/ASF-Proposal
     2. taz
     3. hadoop-mapreduce
         1. http://hadoop.apache.org/

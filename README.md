@@ -114,6 +114,8 @@
     5. 数据同步工具
         1. mysql replication protocal go 实现： https://github.com/siddontang/go-mysql
         2. mysql replication protocal python 实现 https://github.com/noplay/python-mysql-replication
+    6. DBEvents
+        1. https://www.infoq.cn/article/7iYW0ZepClsMW-TDTakc
 5. ETL
 
     1. KETTLE
@@ -184,6 +186,7 @@
             1. The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
             2. http://hive.apache.org/
         2. impala
+            1. http://itindex.net/detail/59411-impala-hulu-%E4%BC%98%E5%8C%96
         3. Apache Drill
             1. Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
             2. http://drill.apache.org/

@@ -200,7 +200,7 @@
             1. The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
             2. http://hive.apache.org/
         2. impala
-            1. http://itindex.net/detail/59411-impala-hulu-%E4%BC%98%E5%8C%96
+            1. Impala 在 Hulu 中的优化和改进 http://itindex.net/detail/59411-impala-hulu-%E4%BC%98%E5%8C%96
         3. Apache Drill
             1. Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
             2. http://drill.apache.org/

@@ -109,27 +109,11 @@
             1. https://github.com/confluentinc/kafka-connect-jdbc
         7. Debezium（Stream changes from your databases） http://debezium.io/
             1. Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
-        8. cannel
-            1. 阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal. Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by canal
-        9. otter 阿里巴巴分布式数据库同步系统(解决中美异地机房)
-            1. https://github.com/alibaba/otter
-        10. 阿里云dts
-            1. https://help.aliyun.com/document_detail/26592.html?spm=a2c4g.11174283.6.542.7df07b02aXfWXN
-        11. 阿里愚公： 阿里巴巴去Oracle数据迁移同步工具(全量+增量,目标支持MySQL/DRDS)
-            1. http://github.com/alibaba/yugong
-        12. databus
-            1. Source-agnostic distributed change data capture system
-            2. https://github.com/linkedin/databus
-        13 dbevents
-            1. Uber 推出数据湖集成神器 DBEvents，支持 MySQL、Cassandra 等 https://www.infoq.cn/article/7iYW0ZepClsMW-TDTakc
-
     4. 自动化数据同步流
         1. http://nifi.apache.org/
     5. 数据同步工具
         1. mysql replication protocal go 实现： https://github.com/siddontang/go-mysql
         2. mysql replication protocal python 实现 https://github.com/noplay/python-mysql-replication
-    6. DBEvents
-        1. https://www.infoq.cn/article/7iYW0ZepClsMW-TDTakc
 5. ETL
 
     1. KETTLE
@@ -182,11 +166,15 @@
 7. 计算引擎&框架
     1. spark
         1. http://spark.apache.org/
+<<<<<<< HEAD
         2. 相关资料
             1. spark at Adobe: https://pan.baidu.com/s/1BGH4G4XxYVlXEsYWsK2t6Q
             2. Uber Hudi Spark: https://pan.baidu.com/s/1ykYbIoVm4HMkS32t6pxkPg
             3. uber/hudi https://github.com/uber/hudi/wiki/ASF-Proposal
+    2. taz
+=======
     2. tez
+>>>>>>> 8fce5cd805d11d7eb7793e20c6a54a6bfcdea779
     3. hadoop-mapreduce
         1. http://hadoop.apache.org/
     4. bigflow
@@ -200,7 +188,6 @@
             1. The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
             2. http://hive.apache.org/
         2. impala
-            1. http://itindex.net/detail/59411-impala-hulu-%E4%BC%98%E5%8C%96
         3. Apache Drill
             1. Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
             2. http://drill.apache.org/
@@ -346,7 +333,6 @@
         1. 深入对比数据仓库模式：Kimball vs Inmon https://segmentfault.com/a/1190000006255954
     4. Matt Turck《Great Power, Great Responsibility: The 2018 Big Data & AI Landscape》: http://mattturck.com/bigdata2018/
     5. 2018京东大数据白皮书 https://pan.baidu.com/s/17V1wGTpfj7vsnoThlkw5Mw
-    6. 大数据之路：阿里巴巴大数据实践 https://pan.baidu.com/s/1cDtSLzYb5ddzf0gDIGImqA
 11. Graph Platform
     1. https://www.tigergraph.com/
         1. The World’s Fastest and Most Scalable Graph Platform

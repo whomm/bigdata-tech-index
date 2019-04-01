@@ -109,6 +109,18 @@
             1. https://github.com/confluentinc/kafka-connect-jdbc
         7. Debezium（Stream changes from your databases） http://debezium.io/
             1. Debezium is an open source distributed platform for change data capture. Start it up, point it at your databases, and your apps can start responding to all of the inserts, updates, and deletes that other apps commit to your databases. Debezium is durable and fast, so your apps can respond quickly and never miss an event, even when things go wrong.
+        8. cannel
+            1. 阿里巴巴mysql数据库binlog的增量订阅&消费组件 。阿里云DRDS( https://www.aliyun.com/product/drds )、阿里巴巴TDDL 二级索引、小表复制powerd by canal. Aliyun Data Lake Analytics https://www.aliyun.com/product/datalakeanalytics powered by canal
+        9. otter 阿里巴巴分布式数据库同步系统(解决中美异地机房)
+            1. https://github.com/alibaba/otter
+        10. 阿里云dts
+            1. https://help.aliyun.com/document_detail/26592.html?spm=a2c4g.11174283.6.542.7df07b02aXfWXN
+        11. 阿里愚公： 阿里巴巴去Oracle数据迁移同步工具(全量+增量,目标支持MySQL/DRDS)
+            1. http://github.com/alibaba/yugong
+        12. databus 
+            1. Source-agnostic distributed change data capture system
+            2. https://github.com/linkedin/databus
+
     4. 自动化数据同步流
         1. http://nifi.apache.org/
     5. 数据同步工具

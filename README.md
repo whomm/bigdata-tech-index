@@ -81,6 +81,11 @@
         6. Confluo
             1. https://ucbrise.github.io/confluo/
             2. 伯克利开源 Confluo：吞吐量比 Kafka 高 4 到 10 倍！ https://mp.weixin.qq.com/s/DfDVwxEGXLpyhdXHHCSGTg
+        7. Pulsar
+            1. Apache Pulsar is an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation
+            2. http://pulsar.apache.org/
+            3. 被视为代替Kafka的消息队列：Apache Pulsar设计简介 https://zhuanlan.zhihu.com/p/64901908
+            4. https://medium.com/@pckeyan/apache-pulsar-gentle-introduction-465ca6da0e18
     2. 日志收集
         1. flume
             1. Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.
@@ -389,7 +394,10 @@
     1. mlsql
         1. Unify Big Data and Machine Learning
         2. https://www.jianshu.com/p/c90acfbd4638?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends&from=groupmessage&isappinstalled=0
-15. 其他
+15. 机器学习
+    1. TensorFlow
+    2. Horovod
+        1. 是时候放弃tensorflow集群投入horovod的怀抱 https://juejin.im/post/5cbc6dbd5188253236619ccb
 
 
 

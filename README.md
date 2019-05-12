@@ -403,6 +403,8 @@
     1. TensorFlow
     2. Horovod
         1. 是时候放弃tensorflow集群投入horovod的怀抱 https://juejin.im/post/5cbc6dbd5188253236619ccb
+    3. sqlflow
+        1. Brings SQL and AI together. https://sqlflow.org
 
 
 

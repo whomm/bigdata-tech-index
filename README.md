@@ -76,6 +76,9 @@
         2. ActiveMQ
         3. RabbitMQ
         4. beanstalkd
+            1. 官方：https://beanstalkd.github.io/
+            2. github: https://github.com/beanstalkd/beanstalkd
+            3. beanstalkd简介 https://www.jianshu.com/p/391d847dc872
         5. LogDevice (facebook)
             1. https://github.com/facebookincubator/LogDevice
         6. Confluo

@@ -282,6 +282,8 @@
             1. http://druid.io/
         13. pinot(A realtime distributed OLAP datastore https://github.com/linkedin/pinot/wiki)
             1. Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency. It can ingest data from offline data sources (such as Hadoop and flat files) as well as online sources (such as Kafka). Pinot is designed to scale horizontally.
+        14. OceanBase
+            1. 金融级分布式关系数据库 https://oceanbase.alipay.com/
     2. parquet  hadoop生态下的列式存储、数据处理框架
         1. https://parquet.apache.org/
         2. 适用场景：

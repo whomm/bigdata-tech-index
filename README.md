@@ -8,6 +8,7 @@
         1. http://mattturck.com/bigdata2018/
         2. http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
         3. http://mattturck.com/bigdata2017/
+    3. A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources https://github.com/youngwookim/awesome-hadoop
 2. 国内外相关
     1. 国内数据分析计算平台产品
         1. 神策

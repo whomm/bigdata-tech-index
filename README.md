@@ -203,7 +203,9 @@
     7. flink
         1. Apache Flink® is an open-source stream processing framework for distributed, high-performing, always-available, and accurate data streaming applications.
         2. http://flink.apache.org/
-    8. sql计算引擎
+    8. blink
+        1. Blink 有何特别之处？菜鸟供应链场景最佳实践 https://segmentfault.com/a/1190000019282277
+    9. sql计算引擎
         1. hive
             1. The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL. Structure can be projected onto data already in storage. A command line tool and JDBC driver are provided to connect users to Hive.
             2. http://hive.apache.org/
@@ -220,6 +222,9 @@
         5. verdictdb
             1. 200x Fewer Resources No Changes to the Application Compatible with All SQL Engines
             2. http://verdictdb.org/
+        6. Phoenix
+            1. HBase进化之从NoSQL到NewSQL，凤凰涅槃成就Phoenix https://yq.aliyun.com/articles/680772
+            2. 阿里云HBase SQL（Phoenix）服务深度解读 https://yq.aliyun.com/articles/703234
 
 8. 流式计算的一些解决方案
     1. 宜信技术研发中心Wormhole
@@ -284,6 +289,9 @@
             1. Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency. It can ingest data from offline data sources (such as Hadoop and flat files) as well as online sources (such as Kafka). Pinot is designed to scale horizontally.
         14. OceanBase
             1. 金融级分布式关系数据库 https://oceanbase.alipay.com/
+        15. cassandra
+            1. The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data. Cassandra's support for replicating across multiple datacenters is best-in-class, providing lower latency for your users and the peace of mind of knowing that you can survive regional outages.
+            2. http://cassandra.apache.org/
     2. parquet  hadoop生态下的列式存储、数据处理框架
         1. https://parquet.apache.org/
         2. 适用场景：
@@ -357,6 +365,7 @@
     4. Matt Turck《Great Power, Great Responsibility: The 2018 Big Data & AI Landscape》: http://mattturck.com/bigdata2018/
     5. 2018京东大数据白皮书 https://pan.baidu.com/s/17V1wGTpfj7vsnoThlkw5Mw
     6. 大数据之路：阿里巴巴大数据实践 https://pan.baidu.com/s/1cDtSLzYb5ddzf0gDIGImqA
+    7. BI和数据仓库：企业分析决策真的离不开数据仓库吗？ https://segmentfault.com/a/1190000019236409?utm_source=tag-newest
 11. Graph Platform
     1. https://www.tigergraph.com/
         1. The World’s Fastest and Most Scalable Graph Platform

@@ -209,6 +209,7 @@
     7. flink
         1. Apache Flink® is an open-source stream processing framework for distributed, high-performing, always-available, and accurate data streaming applications.
         2. http://flink.apache.org/
+        3. 360 深度实践：Flink 与 Storm 协议级对比 https://www.chainnews.com/articles/034685815019.htm
     8. blink
         1. Blink 有何特别之处？菜鸟供应链场景最佳实践 https://segmentfault.com/a/1190000019282277
     9. sql计算引擎
@@ -373,6 +374,7 @@
     6. 大数据之路：阿里巴巴大数据实践 https://pan.baidu.com/s/1cDtSLzYb5ddzf0gDIGImqA
     7. BI和数据仓库：企业分析决策真的离不开数据仓库吗？ https://segmentfault.com/a/1190000019236409?utm_source=tag-newest
     8. SQL on Hadoop 在快手大数据平台的实践与优化 https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR
+    9. 数据中台：宜信敏捷数据中台建设实践|分享实录 https://juejin.im/post/5cecab63f265da1bcb4f0c0d
 11. Graph Platform
     1. https://www.tigergraph.com/
         1. The World’s Fastest and Most Scalable Graph Platform

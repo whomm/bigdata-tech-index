@@ -372,6 +372,7 @@
     5. 2018京东大数据白皮书 https://pan.baidu.com/s/17V1wGTpfj7vsnoThlkw5Mw
     6. 大数据之路：阿里巴巴大数据实践 https://pan.baidu.com/s/1cDtSLzYb5ddzf0gDIGImqA
     7. BI和数据仓库：企业分析决策真的离不开数据仓库吗？ https://segmentfault.com/a/1190000019236409?utm_source=tag-newest
+    8. SQL on Hadoop 在快手大数据平台的实践与优化 https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR
 11. Graph Platform
     1. https://www.tigergraph.com/
         1. The World’s Fastest and Most Scalable Graph Platform
@@ -410,16 +411,16 @@
         2. https://ambari.apache.org/
         3. Ambari——大数据平台的搭建利器 https://www.ibm.com/developerworks/cn/opensource/os-cn-bigdata-ambari/index.html
         4. Ambari及其HDP集群安装及其配置教程 https://zhuanlan.zhihu.com/p/37322462
-16. 数据中台
-    1. mlsql
-        1. Unify Big Data and Machine Learning
-        2. https://www.jianshu.com/p/c90acfbd4638?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends&from=groupmessage&isappinstalled=0
-15. 机器学习
+16. 机器学习
     1. TensorFlow
     2. Horovod
         1. 是时候放弃tensorflow集群投入horovod的怀抱 https://juejin.im/post/5cbc6dbd5188253236619ccb
     3. sqlflow
         1. Brings SQL and AI together. https://sqlflow.org
+    4. mlsql
+        1. Unify Big Data and Machine Learning
+        2. https://www.jianshu.com/p/c90acfbd4638?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends&from=groupmessage&isappinstalled=0
+        3. MLSQL 内置Delta数据湖以及Compaction功能介绍 https://www.jianshu.com/p/239361b8bcde?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends&from=groupmessage&isappinstalled=0
 
 
 

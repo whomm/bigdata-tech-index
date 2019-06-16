@@ -90,6 +90,8 @@
             2. http://pulsar.apache.org/
             3. 被视为代替Kafka的消息队列：Apache Pulsar设计简介 https://zhuanlan.zhihu.com/p/64901908
             4. https://medium.com/@pckeyan/apache-pulsar-gentle-introduction-465ca6da0e18
+        8. 相关文章
+            1. 独家解读！京东高可用分布式流数据存储的架构设计 http://www.raincent.com/content-85-13490-1.html
     2. 日志收集
         1. flume
             1. Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.
@@ -200,6 +202,7 @@
             1. spark at Adobe: https://pan.baidu.com/s/1BGH4G4XxYVlXEsYWsK2t6Q
             2. Uber Hudi Spark: https://pan.baidu.com/s/1ykYbIoVm4HMkS32t6pxkPg
             3. uber/hudi https://github.com/uber/hudi/wiki/ASF-Proposal
+            4. 如何使用redis和apache spark 处理实时数据？ http://www.360doc.com/content/19/0615/15/7669533_842608030.shtml
     2. tez
     3. hadoop-mapreduce
         1. http://hadoop.apache.org/
@@ -299,6 +302,10 @@
         15. cassandra
             1. The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data. Cassandra's support for replicating across multiple datacenters is best-in-class, providing lower latency for your users and the peace of mind of knowing that you can survive regional outages.
             2. http://cassandra.apache.org/
+        16. ClickHouse
+            1. https://clickhouse.yandex/
+            2. ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
+            3. 最快开源 OLAP 引擎！ClickHouse 在头条的技术演进 https://www.infoq.cn/article/NTwo*yR2ujwLMP8WCXOE
     2. parquet  hadoop生态下的列式存储、数据处理框架
         1. https://parquet.apache.org/
         2. 适用场景：
@@ -375,6 +382,7 @@
     7. BI和数据仓库：企业分析决策真的离不开数据仓库吗？ https://segmentfault.com/a/1190000019236409?utm_source=tag-newest
     8. SQL on Hadoop 在快手大数据平台的实践与优化 https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR
     9. 数据中台：宜信敏捷数据中台建设实践|分享实录 https://juejin.im/post/5cecab63f265da1bcb4f0c0d
+    10. 达达-京东到家大数据平台演进实战 http://www.sohu.com/a/319825103_659464
 11. Graph Platform
     1. https://www.tigergraph.com/
         1. The World’s Fastest and Most Scalable Graph Platform

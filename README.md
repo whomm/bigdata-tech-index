@@ -89,7 +89,8 @@
             1. Apache Pulsar is an open-source distributed pub-sub messaging system originally created at Yahoo and now part of the Apache Software Foundation
             2. http://pulsar.apache.org/
             3. 被视为代替Kafka的消息队列：Apache Pulsar设计简介 https://zhuanlan.zhihu.com/p/64901908
-            4. https://medium.com/@pckeyan/apache-pulsar-gentle-introduction-465ca6da0e18
+            4. Apache Pulsar — Gentle Introduction https://medium.com/@pckeyan/apache-pulsar-gentle-introduction-465ca6da0e18
+            5. 如何基于Apache Pulsar和Spark进行批流一体的弹性数据处理？ https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496990&idx=2&sn=1b230ead0d3387ddb92a36f3e9d6ea59&chksm=fbea4cd1cc9dc5c79b43212396cbb09ed1cecf6c5806d5dbb593429ddf5f25a63746ab25c7ee&mpshare=1&scene=1&srcid=#rd
         8. 相关文章
             1. 独家解读！京东高可用分布式流数据存储的架构设计 http://www.raincent.com/content-85-13490-1.html
     2. 日志收集
@@ -295,6 +296,7 @@
         11. Google BigQuery
         12. druid: Apache Druid (incubating) is a high performance analytics data store for event-driven data.
             1. http://druid.io/
+            2. eBay如何打造基于Apache Druid的大数据实时监控系统？ http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651016867&idx=3&sn=8d6d32107f6aa384fbeff2bd65fd27e4&chksm=bdbeb6f08ac93fe6cda0792aeb82f2df78465dd0c00bc7195e6eeadcf3e3a862dcae5d0dc836&mpshare=1&scene=1&srcid=#rd
         13. pinot(A realtime distributed OLAP datastore https://github.com/linkedin/pinot/wiki)
             1. Pinot is a realtime distributed OLAP datastore, which is used at LinkedIn to deliver scalable real time analytics with low latency. It can ingest data from offline data sources (such as Hadoop and flat files) as well as online sources (such as Kafka). Pinot is designed to scale horizontally.
         14. OceanBase

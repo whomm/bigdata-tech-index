@@ -70,7 +70,9 @@
     1. 数据传输
         1. kafka: a distibuted streaming platform
             1. http://kafka.apache.org/
-            2. 关联生态
+            2. 相关文章
+                1. Uber如何搭建一个基于Kafka的跨数据中心复制平台 https://mp.weixin.qq.com/s/tZmrF2EXU-zv4XTx-3frMA
+            3. 关联生态
                 1. https://www.confluent.io/
                     1. KSQL - the Streaming SQL Engine for Apache Kafka  https://github.com/confluentinc/ksql
                         1. KSQL is an open source streaming SQL engine for Apache Kafka. It provides a simple and completely interactive SQL interface for stream processing on Kafka; no need to write code in a programming language such as Java or Python. KSQL is open-source (Apache 2.0 licensed), distributed, scalable, reliable, and real-time. It supports a wide range of powerful stream processing operations including aggregations, joins, windowing, sessionization, and much more.

@@ -1,6 +1,6 @@
 # Big Data Technology Index/大数据技术索引
 
-1. 大数据生态
+1. Bigdata-ecosystem(大数据生态)
     1. bigdata-ecosystem
         1. https://github.com/zenkay/bigdata-ecosystem
         2. http://bigdata.andreamostosi.name/
@@ -42,7 +42,7 @@
                 3. http://www.doc88.com/p-1863463402569.html
         5. https://www.teradata.com.cn
             1.
-3. 数据可视化
+3. Data visualization(数据可视化)
     1. superset：
         1. https://superset.incubator.apache.org/
     2. Metabase:
@@ -66,7 +66,7 @@
             2. antv
                 1.  https://antv.alipay.com/zh-cn/index.html
 
-4. 数据同步
+4. Data synchronization(数据同步)
     1. 数据传输
         1. kafka: a distibuted streaming platform
             1. http://kafka.apache.org/
@@ -255,7 +255,7 @@
             2. https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
             3. https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
             4. KSQL in Action: Enriching CSV Events with Data from RDBMS into AWS https://www.confluent.io/blog/ksql-in-action-enriching-csv-events-with-data-from-rdbms-into-AWS/
-    3. 流计算引擎：
+    3. Stream computing engine(流计算引擎)：
         1. Flink
         2. Spark
         3. Kafka
@@ -266,7 +266,7 @@
         8. samza
     4. 相关文档：
         1. 解读2018：13家开源框架谁能统一流计算？ https://mp.weixin.qq.com/s/DKGEiW-WozhKXr7b3zz4Ow
-9. 大数据存储
+9. Large Data Storage(大数据存储)
     1. OLAP（On-Line Analytical Processing）
         1. PALO
             1. 百度数据仓库Palo是百度云上提供的PB级别的MPP数据仓库服务，以较低的成本提供在大数据集上的高性能分析和报表查询功能。
@@ -413,7 +413,7 @@
         1. InfluxDB是一个由InfluxData开发的开源时序型数据库。它由Go写成，着力于高性能地查询与存储时序型数据。InfluxDB被广泛应用于存储系统的监控数据，IoT行业的实时数据等场景(维基百科)。
         2. https://www.influxdata.com/
     4. TDengine
-        1. TDengine是一个开源的专为物联网、车联网、工业互联网、IT运维等设计和优化的大数据平台。除核心的快10倍以上的时序数据库功能外，还提供缓存、数据订阅、流式计算等功能，最大程度减少研发和运维的工作量。
+        1. TDengine is an open-sourced big data platform under GNU AGPL v3.0, designed and optimized for the Internet of Things (IoT), Connected Cars, Industrial IoT, and IT Infrastructure and Application Monitoring. Besides the 10x faster time-series database, it provides caching, stream computing, message queuing and other functionalities to reduce the complexity and cost of development and operation. TDengine是一个开源的专为物联网、车联网、工业互联网、IT运维等设计和优化的大数据平台。除核心的快10倍以上的时序数据库功能外，还提供缓存、数据订阅、流式计算等功能，最大程度减少研发和运维的工作量。
         2. https://www.taosdata.com/
         3. https://github.com/taosdata/TDengine
 
@@ -423,9 +423,9 @@
         2. Debezium
     2. 技术文档
         1. Streaming MySQL tables in real-time to Kafka https://engineeringblog.yelp.com/2016/08/streaming-mysql-tables-in-real-time-to-kafka.html
-14. 数据建模工具
+14. Data Modeling Tool(数据建模工具)
     1. https://erwin.com/
-15. 集群管理解决方案
+15. Cluster Management Solution(集群管理解决方案)
     1. Cloudera & Hortonworks
         1. 两家公司已经合并
     2. ambari
@@ -433,7 +433,7 @@
         2. https://ambari.apache.org/
         3. Ambari——大数据平台的搭建利器 https://www.ibm.com/developerworks/cn/opensource/os-cn-bigdata-ambari/index.html
         4. Ambari及其HDP集群安装及其配置教程 https://zhuanlan.zhihu.com/p/37322462
-16. 机器学习
+16. Machine learning(机器学习)
     1. TensorFlow
     2. Horovod
         1. 是时候放弃tensorflow集群投入horovod的怀抱 https://juejin.im/post/5cbc6dbd5188253236619ccb

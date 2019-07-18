@@ -310,6 +310,10 @@
             1. https://clickhouse.yandex/
             2. ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
             3. 最快开源 OLAP 引擎！ClickHouse 在头条的技术演进 https://www.infoq.cn/article/NTwo*yR2ujwLMP8WCXOE
+        17. YugaByte DB
+            1. YugaByte DB is a high-performance, cloud-native distributed SQL database. 
+            2. YugaByte DB：高性能的分布式ACID事务的开源数据库 https://www.jdon.com/49487
+            3. https://github.com/YugaByte/yugabyte-db
     2. parquet  hadoop生态下的列式存储、数据处理框架
         1. https://parquet.apache.org/
         2. 适用场景：
@@ -408,6 +412,10 @@
     3. InfluxDB
         1. InfluxDB是一个由InfluxData开发的开源时序型数据库。它由Go写成，着力于高性能地查询与存储时序型数据。InfluxDB被广泛应用于存储系统的监控数据，IoT行业的实时数据等场景(维基百科)。
         2. https://www.influxdata.com/
+    4. TDengine
+        1. TDengine是一个开源的专为物联网、车联网、工业互联网、IT运维等设计和优化的大数据平台。除核心的快10倍以上的时序数据库功能外，还提供缓存、数据订阅、流式计算等功能，最大程度减少研发和运维的工作量。
+        2. https://www.taosdata.com/
+        3. https://github.com/taosdata/TDengine
 
 13. mysql to kafka
     1. 技术框架

@@ -262,12 +262,17 @@
         1. Flink
         2. Spark
         3. Kafka
-            1. kafka streams https://docs.confluent.io/current/streams/index.html
+            1. confluent
+            2. kafka streams https://docs.confluent.io/current/streams/index.html
         4. Pulsar
         5. Storm
         6. JStorm
         7. nifi
         8. samza
+        9. Pulsar
+            1. Streamio
+        10. Kinesis
+            1. aws
     4. 相关文档：
         1. 解读2018：13家开源框架谁能统一流计算？ https://mp.weixin.qq.com/s/DKGEiW-WozhKXr7b3zz4Ow
 9. Large Data Storage(大数据存储)

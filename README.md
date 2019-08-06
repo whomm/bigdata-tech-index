@@ -238,6 +238,9 @@
         6. Phoenix
             1. HBase进化之从NoSQL到NewSQL，凤凰涅槃成就Phoenix https://yq.aliyun.com/articles/680772
             2. 阿里云HBase SQL（Phoenix）服务深度解读 https://yq.aliyun.com/articles/703234
+    10. Apache Beam: An advanced unified programming model
+        1. Implement batch and streaming data processing jobs that run on any execution engine.
+        2. https://beam.apache.org/
 
 8. 流式计算的一些解决方案
     1. 宜信技术研发中心Wormhole
@@ -259,6 +262,7 @@
         1. Flink
         2. Spark
         3. Kafka
+            1. kafka streams https://docs.confluent.io/current/streams/index.html
         4. Pulsar
         5. Storm
         6. JStorm

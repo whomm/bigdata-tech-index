@@ -238,6 +238,9 @@
         6. Phoenix
             1. HBase进化之从NoSQL到NewSQL，凤凰涅槃成就Phoenix https://yq.aliyun.com/articles/680772
             2. 阿里云HBase SQL（Phoenix）服务深度解读 https://yq.aliyun.com/articles/703234
+        7. Quicksql
+            1. QuickSQL 开源地址： https://github.com/Qihoo360/Quicksql
+            2. 统一Elasticsearch、MySQL、Hive的SQL查询引擎，我们把它开源了！ https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651019031&idx=2&sn=4cd5490a14e1ed5fb5b9bd735f939591&chksm=bdbeaf448ac92652bc994a5b3ec13b5af3470031ff2226184a9e736c0c9262250c660a3f4c6d&mpshare=1&scene=1&srcid=&sharer_sharetime=1566866421371&sharer_shareid=e4399c910b4c73993bac8594f780d794#rd
     10. Apache Beam: An advanced unified programming model
         1. Implement batch and streaming data processing jobs that run on any execution engine.
         2. https://beam.apache.org/

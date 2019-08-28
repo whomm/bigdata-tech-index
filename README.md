@@ -445,7 +445,17 @@
         2. https://ambari.apache.org/
         3. Ambari——大数据平台的搭建利器 https://www.ibm.com/developerworks/cn/opensource/os-cn-bigdata-ambari/index.html
         4. Ambari及其HDP集群安装及其配置教程 https://zhuanlan.zhihu.com/p/37322462
-16. Machine learning(机器学习)
+16. Data governance(数据治理)
+    1. atlas 
+        1. http://atlas.apache.org/
+        2. Atlas is a scalable and extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem. Apache Atlas provides open metadata management and governance capabilities for organizations to build a catalog of their data assets, classify and govern these assets and provide collaboration capabilities around these data assets for data scientists, analysts and the data governance team.
+    2. ranger
+        1. Apache Ranger™ is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
+        2. http://ranger.apache.org/
+    3. 相关资料：
+        1. 介绍国外11个顶级数据治理平台 https://www.jianshu.com/p/0acd80ddf11c
+    
+17. Machine learning(机器学习)
     1. TensorFlow
     2. Horovod
         1. 是时候放弃tensorflow集群投入horovod的怀抱 https://juejin.im/post/5cbc6dbd5188253236619ccb

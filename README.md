@@ -345,6 +345,7 @@
                 1. The Scalable Time Series Database. Store and serve massive amounts of time series data without losing granularity.
                 2. http://opentsdb.net/
             2. kylin
+            3. https://www.influxdata.com/ 开源时间序列数据库
     5. 分布式文件存储
         1. https://github.com/chrislusf/seaweedfs
     6. alluxio

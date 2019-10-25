@@ -453,7 +453,11 @@
     2. ranger
         1. Apache Ranger™ is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
         2. http://ranger.apache.org/
-    3. 相关资料：
+    3. metacat 
+        1. https://github.com/Netflix/metacat
+        2. Metacat is a unified metadata exploration API service. You can explore Hive, RDS, Teradata, Redshift, S3 and Cassandra. Metacat provides you information about what data you have, where it resides and how to process it. Metadata in the end is really data about the data. So the primary purpose of Metacat is to give a place to describe the data so that we could do more useful things with it.
+        3. metacat是一个统一的元数据探索api服务。您可以探索hive、rds、teradata、redshift、s3和cassandra。metacat为您提供有关您拥有的数据、数据所在位置以及如何处理数据的信息。最终的元数据实际上是关于数据的数据。所以metacat的主要目的是提供一个地方来描述数据，这样我们可以用它做更多有用的事情。
+    4. 相关资料：
         1. 介绍国外11个顶级数据治理平台 https://www.jianshu.com/p/0acd80ddf11c
     
 17. Machine learning(机器学习)

@@ -198,6 +198,9 @@
     18. Elastic-Job
         1. Elastic-Job is a distributed scheduling solution consisting of two separate projects, Lite and Cloud.
         2. https://github.com/elasticjob
+    19. hera
+        1. https://github.com/scxwhite/hera
+        2. 赫拉(hera)分布式任务调度系统之操作文档  https://scx-white.blog.csdn.net/article/details/102571798
 7. 计算引擎&框架
     1. spark
         1. http://spark.apache.org/

@@ -326,7 +326,7 @@
             2. ClickHouse is an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries.
             3. 最快开源 OLAP 引擎！ClickHouse 在头条的技术演进 https://www.infoq.cn/article/NTwo*yR2ujwLMP8WCXOE
         17. YugaByte DB
-            1. YugaByte DB is a high-performance, cloud-native distributed SQL database. 
+            1. YugaByte DB is a high-performance, cloud-native distributed SQL database.
             2. YugaByte DB：高性能的分布式ACID事务的开源数据库 https://www.jdon.com/49487
             3. https://github.com/YugaByte/yugabyte-db
     2. parquet  hadoop生态下的列式存储、数据处理框架
@@ -407,6 +407,14 @@
     8. SQL on Hadoop 在快手大数据平台的实践与优化 https://www.infoq.cn/article/BN9cJjg1t-QSWE6fqkoR
     9. 数据中台：宜信敏捷数据中台建设实践|分享实录 https://juejin.im/post/5cecab63f265da1bcb4f0c0d
     10. 达达-京东到家大数据平台演进实战 http://www.sohu.com/a/319825103_659464
+    11. 数据仓库建设：
+        1. 数据仓库(一)之需求篇 https://blog.csdn.net/mark_wu2000/article/details/82630852
+        2. 数据仓库(二)之维度建模篇 https://blog.csdn.net/mark_wu2000/article/details/82668787
+        3. 数据仓库(三)之架构篇 https://blog.csdn.net/mark_wu2000/article/details/82694865
+        4. 数据仓库(四)之ETL开发 https://blog.csdn.net/mark_wu2000/article/details/82730049
+        5. 数据仓库(五)元数据管理 https://blog.csdn.net/mark_wu2000/article/details/82793824
+        6. 数据仓库(六)之数据质量篇 https://blog.csdn.net/mark_wu2000/article/details/82860572
+    12. DataWorks V2.0数据质量简介及最佳实践 https://help.aliyun.com/video_detail/100220.html?spm=a2c4g.11174359.2.11.6b8a70e5VN6CKD
 11. Graph Platform
     1. https://www.tigergraph.com/
         1. The World’s Fastest and Most Scalable Graph Platform
@@ -450,19 +458,19 @@
         3. Ambari——大数据平台的搭建利器 https://www.ibm.com/developerworks/cn/opensource/os-cn-bigdata-ambari/index.html
         4. Ambari及其HDP集群安装及其配置教程 https://zhuanlan.zhihu.com/p/37322462
 16. Data governance(数据治理)
-    1. atlas 
+    1. atlas
         1. http://atlas.apache.org/
         2. Atlas is a scalable and extensible set of core foundational governance services – enabling enterprises to effectively and efficiently meet their compliance requirements within Hadoop and allows integration with the whole enterprise data ecosystem. Apache Atlas provides open metadata management and governance capabilities for organizations to build a catalog of their data assets, classify and govern these assets and provide collaboration capabilities around these data assets for data scientists, analysts and the data governance team.
     2. ranger
         1. Apache Ranger™ is a framework to enable, monitor and manage comprehensive data security across the Hadoop platform.
         2. http://ranger.apache.org/
-    3. metacat 
+    3. metacat
         1. https://github.com/Netflix/metacat
         2. Metacat is a unified metadata exploration API service. You can explore Hive, RDS, Teradata, Redshift, S3 and Cassandra. Metacat provides you information about what data you have, where it resides and how to process it. Metadata in the end is really data about the data. So the primary purpose of Metacat is to give a place to describe the data so that we could do more useful things with it.
         3. metacat是一个统一的元数据探索api服务。您可以探索hive、rds、teradata、redshift、s3和cassandra。metacat为您提供有关您拥有的数据、数据所在位置以及如何处理数据的信息。最终的元数据实际上是关于数据的数据。所以metacat的主要目的是提供一个地方来描述数据，这样我们可以用它做更多有用的事情。
     4. 相关资料：
         1. 介绍国外11个顶级数据治理平台 https://www.jianshu.com/p/0acd80ddf11c
-    
+
 17. Machine learning(机器学习)
     1. TensorFlow
     2. Horovod
